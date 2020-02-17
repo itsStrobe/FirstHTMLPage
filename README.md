@@ -22,3 +22,25 @@
         git push -u origin master
     </li>
 </ol>
+
+<p>
+    Pull Request
+</p>
+<ol>
+    <li>
+        Fork the repo
+    </li>
+    <li>
+        `git clone url-to-fork`
+    </li>
+    <li>
+        `git add .`
+    </li>
+    <li>
+        `git commit -m "Message"`
+    </li>
+    <li>
+        `git push -u origin master`
+    </li>
+</ol>
+
